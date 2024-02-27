@@ -1,0 +1,15 @@
+INFO 2024-02-26 16:02:54,599 views 8660 8600 Student data fetched succesfully
+INFO 2024-02-26 16:05:59,341 views 8660 5380 Student created succesfully
+INFO 2024-02-26 16:06:26,469 views 8660 5380 Student data fetched succesfully
+INFO 2024-02-26 16:11:04,808 views 10880 2960 Student data fetched succesfully
+INFO 2024-02-26 16:14:10,485 views 10608 8696 Student data fetched succesfully
+INFO 2024-02-26 16:14:41,149 views 8316 3752 Student fetched succesfully
+ERROR 2024-02-26 17:35:07,936 views 8712 3652 Error in creating a new student
+ERROR 2024-02-26 17:37:51,413 views 6056 14556 Error in creating a new student
+INFO 2024-02-26 17:41:42,868 views 10496 15236 Student created succesfully
+ERROR 2024-02-26 17:48:08,128 views 5380 9700 Error in creating a new student
+INFO 2024-02-26 17:48:19,305 views 5380 9700 Student created succesfully
+INFO 2024-02-26 17:50:05,357 views 5380 9700 Student data fetched succesfully
+ERROR 2024-02-26 17:51:22,047 views 5380 9700 Error in creating a new student
+INFO 2024-02-26 17:51:38,509 views 5380 9700 Student fetched succesfully
+INFO 2024-02-26 17:53:37,101 views 5380 9700 Student created succesfully
